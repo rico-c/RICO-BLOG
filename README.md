@@ -1,4 +1,5 @@
-<h1 align="canter">Rico Blog</h1>
+<h1 align="center">Rico Blog</h1>
+
 ### 所有文章请见Issues  ☝️
 
 ### 翻译
