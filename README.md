@@ -9,10 +9,12 @@
 ### 源码分析
 - [前端监控方案bad.js源码解析](https://github.com/RicardoCao-Biker/Front-End-Monitoring/blob/master/badjs-sourcedoce-explain.md)
 
+### 安全
+- [API重放攻击防御](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/2)
+
 ### 总结
 - [前端知识点整理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/11)
 - [WebP图片兼容性处理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/9)
-- [API重放攻击防御](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/2)
 - [使用 webpack 定制前端开发环境](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/1)
 
 ### 踩坑指南
