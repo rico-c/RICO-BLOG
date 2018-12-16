@@ -18,6 +18,7 @@
 - [WebP图片兼容性处理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/9)
 - [使用 webpack 定制前端开发环境](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/1)
 - [React与Vue主要特征对比](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/15)
+- [一道关于this和原型链的JS题目](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/16)
 
 ### 踩坑指南
 - [ReactNative安卓打包失败&代码不更新的解决步骤](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/10)
