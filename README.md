@@ -1,6 +1,6 @@
 <h1 align="center">Rico Blog</h1>
 
-所有文章请见Issues  ☝️
+所有文章请见Issues☝️
 
 ### 翻译
 - [[译]TensorFlow.js文档 - Getting Started ](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/13)
