@@ -17,7 +17,7 @@
 - [前端知识点整理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/11)
 - [WebP图片兼容性处理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/9)
 - [使用webpack定制前端开发环境](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/1)
-- [React与Vue主要特征对比](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/15)
+- [React与Vue核心对比](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/15)
 - [一道关于this和原型链的JS题目](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/16)
 - [移动端页面后退不刷新的N种解决方案](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/17)
 
