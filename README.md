@@ -5,6 +5,7 @@
 ### 翻译
 - [[译]TensorFlow.js文档 - Getting Started ](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/13)
 - [[译]你应该在何时避免使用箭头函数？](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/12)
+- [[译]渐进增强的含义与意义](https://github.com/RicardoCao-Biker/gold-miner/blob/translation/What-is-Progressive-Enhancement/TODO1/what-is-progressive-enhancement-and-why-it-matters.md)
 
 ### 源码分析
 - [前端监控方案bad.js源码解析](https://github.com/RicardoCao-Biker/Front-End-Monitoring/blob/master/badjs-sourcedoce-explain.md)
