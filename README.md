@@ -21,7 +21,7 @@
 - [WebP图片兼容性处理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/9)
 - [使用webpack定制前端开发环境](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/1)
 - [React与Vue设计对比](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/15)
-- [一道关于this和原型链的JS题目](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/16)
+- [this和原型链的JS题目](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/16)
 - [移动端页面后退不刷新的N种解决方案](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/17)
 - [通过IconFont原理看如何在VUE中动态加载IconFont图标](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/19)
 - [活动页构建平台问题整理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/21)
