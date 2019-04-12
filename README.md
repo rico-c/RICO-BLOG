@@ -16,7 +16,7 @@
 - [API重放攻击防御](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/2)
 
 ### 总结
-- [小猪活动自动构建平台总结](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/22)
+- [活动自动构建平台总结](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/22)
 - [搞懂 HTTP1.0/1.1/2.0协议](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/18)
 - [前端知识点整理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/11)
 - [WebP图片兼容性处理](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/9)
