@@ -18,6 +18,9 @@
 ### 安全
 - [API重放攻击防御](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/2)
 
+### 机器学习
+- [HMM隐马尔可夫模型](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/25)
+
 ### 总结
 - [小猪活动自动构建平台总结](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/22)
 - [搞懂 HTTP1.0/1.1/2.0协议](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/18)
