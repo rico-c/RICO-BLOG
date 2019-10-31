@@ -41,4 +41,3 @@
 - [Weex踩坑-Environment variable $ANDROID_HOME not found](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/5)
 - [Weex踩坑-cocoapods的setup龟速](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/4)
 - [Weex采坑-header组件不渲染](https://github.com/RicardoCao-Biker/RICO-BLOG/issues/3)
-
